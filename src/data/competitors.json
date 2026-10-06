@@ -1,0 +1,140 @@
+{
+  "legend": "1 = service publicly identified on reviewed source; 0 = not identified. (Note: A score of 0 indicates that the offering was not visibly highlighted on reviewed public collaterals/websites, not that the provider is incapable of delivering it.)",
+  "meta": {
+    "sourceType": "Secondary Competitor Landscape Review",
+    "reviewedEntities": 8,
+    "geography": "Coimbatore / South India Recruitment Sector"
+  },
+  "competitors": [
+    {
+      "name": "National Staffing Giant A",
+      "tier": "National Corporate",
+      "permanent": 1,
+      "contractStaffing": 1,
+      "bulkHiring": 1,
+      "rpo": 1,
+      "technicalScreening": 0,
+      "payrollServices": 1,
+      "primaryTarget": "IT, Banking, Large Enterprise Manufacturing",
+      "pricingModel": "8.33% - 12.5% CTC / Margin on Contract Payroll"
+    },
+    {
+      "name": "Regional Industrial Staffing B",
+      "tier": "Regional Agency",
+      "permanent": 1,
+      "contractStaffing": 1,
+      "bulkHiring": 1,
+      "rpo": 0,
+      "technicalScreening": 0,
+      "payrollServices": 1,
+      "primaryTarget": "Textile Mills, General Foundry Blue-collar",
+      "pricingModel": "Volume fee per headcount / Monthly billing"
+    },
+    {
+      "name": "Local Consultancy C (Gandhipuram)",
+      "tier": "Local Boutique",
+      "permanent": 1,
+      "contractStaffing": 0,
+      "bulkHiring": 1,
+      "rpo": 0,
+      "technicalScreening": 0,
+      "payrollServices": 0,
+      "primaryTarget": "Office Admin, Sales, Entry Accounts, Clerical",
+      "pricingModel": "15 days - 1 month salary flat"
+    },
+    {
+      "name": "Engineering Placement Cell D",
+      "tier": "Specialist Agency",
+      "permanent": 1,
+      "contractStaffing": 0,
+      "bulkHiring": 0,
+      "rpo": 0,
+      "technicalScreening": 1,
+      "payrollServices": 0,
+      "primaryTarget": "Fresher Engineers, Graduate Trainees",
+      "pricingModel": "Candidate training fee + 8.33% placement fee"
+    },
+    {
+      "name": "Multi-City HR Solutions E",
+      "tier": "Regional Agency",
+      "permanent": 1,
+      "contractStaffing": 1,
+      "bulkHiring": 1,
+      "rpo": 1,
+      "technicalScreening": 0,
+      "payrollServices": 1,
+      "primaryTarget": "Auto Components, Electronics, Logistics",
+      "pricingModel": "Percentage of annual CTC (8.33% - 10%)"
+    },
+    {
+      "name": "Industrial Job Portal F",
+      "tier": "Digital Aggregator",
+      "permanent": 0,
+      "contractStaffing": 0,
+      "bulkHiring": 1,
+      "rpo": 0,
+      "technicalScreening": 0,
+      "payrollServices": 0,
+      "primaryTarget": "Self-service resume database access",
+      "pricingModel": "Subscription package (₹15,000 - ₹45,000/yr)"
+    },
+    {
+      "name": "Coimbatore SME Placement Service G",
+      "tier": "Local Agency",
+      "permanent": 1,
+      "contractStaffing": 0,
+      "bulkHiring": 1,
+      "rpo": 0,
+      "technicalScreening": 0,
+      "payrollServices": 0,
+      "primaryTarget": "General Machine Operators, Helpers",
+      "pricingModel": "Candidate registration + token employer fee"
+    },
+    {
+      "name": "HireReady Coimbatore (Proposed)",
+      "tier": "Lean Tech-Enabled Niche",
+      "permanent": 1,
+      "contractStaffing": 0,
+      "bulkHiring": 0,
+      "rpo": 0,
+      "technicalScreening": 1,
+      "payrollServices": 0,
+      "primaryTarget": "SME Manufacturing (CNC, Quality, Maintenance)",
+      "pricingModel": "8.33% - 10% contingency on joining + 60-day replacement"
+    }
+  ],
+  "servicesSaturation": [
+    { "service": "Permanent Recruitment", "offeredByCount": 7, "saturationPct": 87.5, "intensity": "High" },
+    { "service": "Bulk / High-Volume Hiring", "offeredByCount": 6, "saturationPct": 75.0, "intensity": "High" },
+    { "service": "Contract Staffing", "offeredByCount": 4, "saturationPct": 50.0, "intensity": "Medium-High" },
+    { "service": "Payroll / Statutory Services", "offeredByCount": 3, "saturationPct": 37.5, "intensity": "Medium" },
+    { "service": "Recruitment Process Outsourcing (RPO)", "offeredByCount": 2, "saturationPct": 25.0, "intensity": "Moderate" },
+    { "service": "Practical Technical/HR Pre-Screening", "offeredByCount": 2, "saturationPct": 25.0, "intensity": "Low / Unmet Need" }
+  ],
+  "marketGaps": [
+    {
+      "segment": "General Recruitment",
+      "competitionLevel": "HIGH COMPETITION",
+      "observation": "High saturation with low barrier-to-entry agencies competing on volume of CV forwards with little vetting.",
+      "risk": "Commoditization, price undercutting, employer frustration over irrelevant resumes."
+    },
+    {
+      "segment": "Contract Staffing",
+      "competitionLevel": "HIGH COMPETITION",
+      "observation": "Dominated by large capitalized players with compliance infrastructure and payroll financing.",
+      "risk": "Requires massive working capital (₹20L - ₹50L+) to advance employee wages before client payment."
+    },
+    {
+      "segment": "Bulk / Entry-level Hiring",
+      "competitionLevel": "COMPETITIVE",
+      "observation": "Serviced by classified portals, brokers, and trade union referrals.",
+      "risk": "High churn, very low margin per hire, lack of candidate commitment."
+    },
+    {
+      "segment": "Verified Specialist Shortlist",
+      "competitionLevel": "PROPOSED DIFFERENTIATOR",
+      "observation": "Identified gap: Coimbatore precision SMEs report spending 15-25 hours per hire testing basic machine readiness. No lean agency currently provides pre-tested candidate passports before interview.",
+      "risk": "Requires disciplined screening protocols; must establish trust with SME plant heads. Proposed positioning."
+    }
+  ]
+}

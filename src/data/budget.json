@@ -1,0 +1,31 @@
+{
+  "totalCapital": 500000,
+  "currency": "INR",
+  "currencySymbol": "₹",
+  "disclaimer": "Industry benchmark / proposed assumption — validate locally before launch. Illustrative simulation for MBA business case.",
+  "items": [
+    { "id": "ats_crm", "category": "Recruitment ATS & CRM Software", "amount": 50000, "description": "Cloud candidate tracker, WhatsApp API integration, pipeline CRM (Annual starter)" },
+    { "id": "hardware", "category": "Laptop & IT Hardware", "amount": 60000, "description": "1 High-reliability laptop, backup SSD, peripheral headsets & smartphone" },
+    { "id": "web_brand", "category": "Website, Domain & Brand Collaterals", "amount": 25000, "description": "Domain, fast hosting, employer brochures, digital candidate passport templates" },
+    { "id": "sourcing", "category": "Job Portals & Database Sourcing Subscriptions", "amount": 90000, "description": "Regional portal access (e.g. Indeed / apna / local job database credits) for 6 months" },
+    { "id": "assessment", "category": "Candidate Screening & Skill Testing Kits", "amount": 25000, "description": "Technical rubric licenses, partner workshop machining test stipend tokens" },
+    { "id": "marketing", "category": "Digital Marketing & SME Client Acquisition", "amount": 40000, "description": "LinkedIn outreach tools, targeted Google Local ads in Coimbatore industrial zones" },
+    { "id": "travel", "category": "Local Travel & Client Plant Visits", "amount": 25000, "description": "Fuel & local transit across Kurichi, SIDCO, Peelamedu & Ganapathy industrial clusters" },
+    { "id": "legal", "category": "Legal, GST Registration & Accounting", "amount": 25000, "description": "Firm incorporation, MSME Udyam, GST filing, standard placement contract drafting" },
+    { "id": "operating", "category": "Office / Co-working & Utilities (6 Mos)", "amount": 60000, "description": "Co-working flexi-desk (₹8k/mo) + mobile/broadband + basic office supplies" },
+    { "id": "reserve", "category": "Working Capital Cash Reserve", "amount": 100000, "description": "Emergency cash cushion ensuring 4-5 months operational runway without immediate revenue" }
+  ],
+  "defaultScenario": {
+    "avgAnnualCTC": 300000,
+    "feePercentage": 8.33,
+    "placementsTarget": 12,
+    "monthlyBurn": 22000,
+    "monthsSimulated": 6
+  },
+  "placementTiers": [
+    { "placements": 5, "description": "Early traction / Initial pilot phase" },
+    { "placements": 10, "description": "Steady-state month 3-4 achievement" },
+    { "placements": 15, "description": "Target quarterly goal for break-even" },
+    { "placements": 20, "description": "Growth phase with high SME repeat rate" }
+  ]
+}

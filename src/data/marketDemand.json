@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "sourceType": "Secondary Research",
+    "description": "Selected public vacancy sample from leading job boards and Coimbatore industrial recruitment boards (Sample size N = 620 listings).",
+    "disclaimer": "Secondary research — selected public vacancy postings. Does not represent total market census.",
+    "timeframe": "Aggregated Q3/Q4 sample review",
+    "geography": "Coimbatore Metropolitan & Industrial Corridors"
+  },
+  "rolesDemand": [
+    { "role": "CNC / VMC Operator", "openings": 156, "sharePct": 25.2, "avgSalary": 23500, "difficultyIndex": 8.8, "typicalNoticeDays": 15 },
+    { "role": "Machine Operator", "openings": 114, "sharePct": 18.4, "avgSalary": 18500, "difficultyIndex": 6.9, "typicalNoticeDays": 10 },
+    { "role": "Production Technician / Supervisor", "openings": 98, "sharePct": 15.8, "avgSalary": 31000, "difficultyIndex": 7.5, "typicalNoticeDays": 30 },
+    { "role": "Quality Inspector & CMM", "openings": 82, "sharePct": 13.2, "avgSalary": 26500, "difficultyIndex": 8.4, "typicalNoticeDays": 20 },
+    { "role": "Mechanical Fitter & Assembly", "openings": 76, "sharePct": 12.3, "avgSalary": 20500, "difficultyIndex": 7.1, "typicalNoticeDays": 15 },
+    { "role": "Maintenance & Automation", "openings": 54, "sharePct": 8.7, "avgSalary": 33500, "difficultyIndex": 9.1, "typicalNoticeDays": 30 },
+    { "role": "Setter / Tool & Die", "openings": 40, "sharePct": 6.4, "avgSalary": 29000, "difficultyIndex": 8.9, "typicalNoticeDays": 20 }
+  ],
+  "salaryBands": [
+    { "band": "Under ₹15,000", "count": 68, "percentage": 11.0, "description": "Helpers, trainee machinists, entry apprentices" },
+    { "band": "₹15,000 – ₹25,000", "count": 318, "percentage": 51.3, "description": "Core experienced CNC operators, fitters, junior technicians (Highest SME Volume)" },
+    { "band": "₹25,000 – ₹40,000", "count": 182, "percentage": 29.4, "description": "Senior CNC programmers, quality engineers, shift supervisors, maintenance leads" },
+    { "band": "Above ₹40,000", "count": 52, "percentage": 8.3, "description": "Plant managers, tool room heads, automation leads" }
+  ],
+  "industrialClusters": [
+    { "cluster": "Kurichi Industrial Estate", "primaryFocus": "Pumps, Motors, Precision Machining", "estimatedShare": 31 },
+    { "cluster": "SIDCO / Malumichampatti", "primaryFocus": "Foundries, Valve Components, CNC Job Works", "estimatedShare": 26 },
+    { "cluster": "Ganapathy & Avarampalayam", "primaryFocus": "Textile Machinery, Precision Tooling", "estimatedShare": 19 },
+    { "cluster": "Peelamedu & Singanallur", "primaryFocus": "Automotive Tier-2/3, Electrical Equipment", "estimatedShare": 16 },
+    { "cluster": "Thudiyalur & Mettupalayam Rd", "primaryFocus": "Agricultural Machinery, Fabrication", "estimatedShare": 8 }
+  ],
+  "keyInsight": {
+    "title": "Secondary Research Insight",
+    "text": "Public vacancy evidence indicates recurring, concentrated demand for manufacturing and technical roles across Coimbatore SME clusters (over 51% in the ₹15k–₹25k bracket). High reported operator attrition and machine downtime support testing a lean, specialized recruitment niche rather than a generic non-technical agency."
+  }
+}
