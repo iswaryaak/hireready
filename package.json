@@ -10,7 +10,7 @@
     "migrate": "node scripts/migrate.js",
     "test:db": "node scripts/run_connectivity_test.mjs",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --nojekyll"
+    "deploy": "npx --yes gh-pages -d dist --nojekyll"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.109.0",
